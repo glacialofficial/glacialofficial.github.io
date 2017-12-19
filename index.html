@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3918910258" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3874511269" id="pagesheet"/>
    </head>
  <body>
 
@@ -71,12 +71,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
    <div class="verticalspacer" data-offset-top="1497" data-content-above-spacer="1496" data-content-below-spacer="61"></div>
-   <a class="nonblock nontext clip_frame grpelem" id="u224" href="https://open.spotify.com/artist/6DcWlVxeYXCdA7Ed7RdaaQ"><!-- image --><img class="block" id="u224_img" src="images/spotify_icon_rgb_green.png?crc=4217137445" alt="" width="36" height="36"/></a>
    <div class="clearfix grpelem" id="pu398"><!-- column -->
     <div class="colelem" id="u398"><!-- simple frame --></div>
-    <a class="nonblock nontext clip_frame colelem" id="u234" href="http://facebook.com/glacialofficial0"><!-- image --><img class="block" id="u234_img" src="images/fb-f-logo__blue_58.png?crc=476515694" alt="" width="36" height="36"/></a>
+    <div class="clearfix colelem" id="pu618"><!-- group -->
+     <div class="clearfix grpelem" id="u618"><!-- group -->
+      <a class="nonblock nontext clip_frame grpelem" id="u533" href="http://soundcloud.com/glacialofficial"><!-- svg --><img class="svg" id="u528" src="images/soundcloud-button.svg?crc=4269243580" width="241" height="57" alt="" data-mu-svgfallback="images/soundcloud-button_poster_.png?crc=149401237"/></a>
+      <a class="nonblock nontext clip_frame grpelem" id="u526" href="http://facebook.com/glacialofficial0"><!-- svg --><img class="svg" id="u521" src="images/facebook-button.svg?crc=128111368" width="241" height="57" alt="" data-mu-svgfallback="images/facebook-button_poster_.png?crc=94633665"/></a>
+     </div>
+     <a class="nonblock nontext clip_frame grpelem" id="u540" href="https://open.spotify.com/artist/6DcWlVxeYXCdA7Ed7RdaaQ"><!-- svg --><img class="svg" id="u535" src="images/spotify-button.svg?crc=3954991561" width="241" height="57" alt="" data-mu-svgfallback="images/spotify-button_poster_.png?crc=155570777"/></a>
+    </div>
    </div>
-   <a class="nonblock nontext clip_frame grpelem" id="u214" href="http://twitter.com/glacialofficial"><!-- image --><img class="block" id="u214_img" src="images/twitter_social_icon_circle_color.png?crc=3983768158" alt="" width="36" height="36"/></a>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -95,10 +99,10 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u133').registerPositionScrollEffect([{"speed":[0,0.5],"in":[-Infinity,0]},{"speed":[0,2],"in":[0,Infinity]}]);/* scroll effect */
-$('#u137').registerPositionScrollEffect([{"speed":[0,0.5],"in":[-Infinity,0]},{"speed":[0,2],"in":[0,Infinity]}]);/* scroll effect */
-$('#u104').registerPositionScrollEffect([{"speed":[0,0.5],"in":[-Infinity,0]},{"speed":[0,2],"in":[0,Infinity]}]);/* scroll effect */
-$('#u126-4').registerPositionScrollEffect([{"speed":[0,0.5],"in":[-Infinity,0]},{"speed":[0,2],"in":[0,Infinity]}]);/* scroll effect */
+$('#u133').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.5]},{"in":[0,Infinity],"speed":[0,2]}]);/* scroll effect */
+$('#u137').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.5]},{"in":[0,Infinity],"speed":[0,2]}]);/* scroll effect */
+$('#u104').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.5]},{"in":[0,Infinity],"speed":[0,2]}]);/* scroll effect */
+$('#u126-4').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.5]},{"in":[0,Infinity],"speed":[0,2]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

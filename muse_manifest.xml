@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="glacialofficial.com" resolutions="1x" timestamp="1513711518329">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="glacialofficial.com" resolutions="1x" timestamp="1513720748028">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3918910258" ref="index"/>
+    <file name="index.css" crc="3874511269" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,15 +20,19 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u126-4.png" crc="128470761" ref="index"/>
-    <file name="twitter_social_icon_circle_color.png" crc="3983768158" seo="true" ref="index">
+    <file name="u450-4.png" crc="119230947" ref="index"/>
+    <file name="facebook-button.svg" crc="128111368" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spotify_icon_rgb_green.png" crc="4217137445" seo="true" ref="index">
+    <file name="facebook-button_poster_.png" crc="94633665" ref="index"/>
+    <file name="soundcloud-button.svg" crc="4269243580" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fb-f-logo__blue_58.png" crc="476515694" seo="true" ref="index">
+    <file name="soundcloud-button_poster_.png" crc="149401237" ref="index"/>
+    <file name="spotify-button.svg" crc="3954991561" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="spotify-button_poster_.png" crc="155570777" ref="index"/>
     <file name="u461-4.png" crc="310046316" ref="index"/>
     <file name="u409-4.png" crc="194642633" ref="index"/>
     <file name="icons8-phone-filled-50.png" crc="368950569" seo="true" ref="index">
@@ -38,7 +42,6 @@
     <file name="icons8-secured-letter-50.png" crc="505136855" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u450-4.png" crc="119230947" ref="index"/>
   </folder>
-  <file name="index.html" crc="4228732926" seo="true" mt="1513711493474" redirect="true"/>
+  <file name="index.html" crc="4239898745" seo="true" mt="1513720730561" redirect="true"/>
 </manifest>
