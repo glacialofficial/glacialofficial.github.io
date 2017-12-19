@@ -1,0 +1,44 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="glacialofficial.com" resolutions="1x" timestamp="1513711518329">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3918910258" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hero_bg_5.jpg" crc="231605373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="glacial fade.jpg" crc="268895614" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u126-4.png" crc="128470761" ref="index"/>
+    <file name="twitter_social_icon_circle_color.png" crc="3983768158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spotify_icon_rgb_green.png" crc="4217137445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fb-f-logo__blue_58.png" crc="476515694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u461-4.png" crc="310046316" ref="index"/>
+    <file name="u409-4.png" crc="194642633" ref="index"/>
+    <file name="icons8-phone-filled-50.png" crc="368950569" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u437-4.png" crc="3842690956" ref="index"/>
+    <file name="icons8-secured-letter-50.png" crc="505136855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u450-4.png" crc="119230947" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4228732926" seo="true" mt="1513711493474" redirect="true"/>
+</manifest>
