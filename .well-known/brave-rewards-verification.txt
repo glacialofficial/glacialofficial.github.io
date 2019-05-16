@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: glacialofficial.com
+Token: a804f81b42c5a15178f8fca81cf8263f633e5d5da9683cdaf4307ec43effa834
